@@ -1,0 +1,162 @@
+{"products":[
+    {
+        "id": "P001",
+        "category": "Elektronika",
+        "name": "Simsiz Qulaqlıq (ANC)",
+        "price": 129.99,
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800",
+        "description": "Aktiv səs-küy ləğvetmə xüsusiyyətli Bluetooth qulaqlıq."
+    },
+    {
+        "id": "P002",
+        "category": "Elektronika",
+        "name": "Ağıllı Saat Pro",
+        "price": 249.5,
+        "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800",
+        "description": "Ürək döyüntüsü izləyicisi və AMOLED ekranlı smart saat."
+    },
+    {
+        "id": "P003",
+        "category": "Elektronika",
+        "name": "4K Ultra HD Kamera",
+        "price": 850.0,
+        "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=800",
+        "description": "Peşəkar çəkilişlər üçün kompakt rəqəmsal kamera."
+    },
+    {
+        "id": "P004",
+        "category": "Geyim",
+        "name": "Kişi Klassik Pencək",
+        "price": 149.0,
+        "image": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=800",
+        "description": "Gündəlik və rəsmi üslub üçün rahat kəsimli pencək."
+    },
+    {
+        "id": "P005",
+        "category": "Geyim",
+        "name": "Qadın İsti Palto",
+        "price": 220.0,
+        "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=800",
+        "description": "Qış mövsümü üçün dəbli və su keçirməyən uzun palto."
+    },
+    {
+        "id": "P006",
+        "category": "Geyim",
+        "name": "Unisex Sport Krossovka",
+        "price": 95.0,
+        "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800",
+        "description": "Qaçış və gündəlik gəzinti üçün ortopedik idman ayaqqabısı."
+    },
+    {
+        "id": "P007",
+        "category": "Ev və Məişət",
+        "name": "Robot Tozsoran",
+        "price": 450.0,
+        "image": "https://images.unsplash.com/photo-1518640467707-6811f4a6ab73?w=800",
+        "description": "Smart naviqasiya və yaş təmizləmə funksiyalı tozsoran."
+    },
+    {
+        "id": "P008",
+        "category": "Ev və Məişət",
+        "name": "Qəhvə Dəmləyən (Espresso)",
+        "price": 180.0,
+        "image": "https://images.unsplash.com/photo-1570968915860-54d5c301fa9f?w=800",
+        "description": "Evdə barista keyfiyyətində qəhvə hazırlamaq üçün aparat."
+    },
+    {
+        "id": "P009",
+        "category": "Ev və Məişət",
+        "name": "Bambuk Yataq Dəsti",
+        "price": 75.0,
+        "image": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800",
+        "description": "Tamamilə təbii parçadan hazırlanmış iki nəfərlik yataq dəsti."
+    },
+    {
+        "id": "P010",
+        "category": "Qida & İçki",
+        "name": "Premium Çin Yaşıl Çayı",
+        "price": 15.5,
+        "image": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?w=800",
+        "description": "Antioksidantla zəngin yarpaqlı yaşıl çay (250 qram)."
+    },
+    {
+        "id": "P011",
+        "category": "Qida & İçki",
+        "name": "Belçika Tünd Şokoladı",
+        "price": 8.2,
+        "image": "https://images.unsplash.com/photo-1511381939415-e44015466834?w=800",
+        "description": "70% kakaolu əsl Belçika şokolad plitkası."
+    },
+    {
+        "id": "P012",
+        "category": "İdman & Sağlamlıq",
+        "name": "Yoga Xalçası (Mat)",
+        "price": 35.0,
+        "image": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=800",
+        "description": "Sürüşməyən, ekoloji təmiz materialdan fitness xalçası."
+    },
+    {
+        "id": "P013",
+        "category": "İdman & Sağlamlıq",
+        "name": "Tənzimlənən Dumbell (15 kq)",
+        "price": 65.0,
+        "image": "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?w=800",
+        "description": "Evdə məşq etmək üçün çəkisi dəyişdirilə bilən dumbell."
+    },
+    {
+        "id": "P014",
+        "category": "Gözəllik & Qulluq",
+        "name": "Üz Üçün Nəmləndirici Krem",
+        "price": 28.0,
+        "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=800",
+        "description": "Hialuron turşulu dərin nəmləndirici gündəlik krem."
+    },
+    {
+        "id": "P015",
+        "category": "Gözəllik & Qulluq",
+        "name": "Saç Üçün Keratin Şampunu",
+        "price": 22.5,
+        "image": "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?w=800",
+        "description": "Zədələnmiş saçları bərpa edən sulfatsız şampun."
+    },
+    {
+        "id": "P016",
+        "category": "Kitab & Təhsil",
+        "name": "\"Atom Vərdişlər\" Kitabı",
+        "price": 24.0,
+        "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=800",
+        "description": "Ceyms Klirin şəxsi inkişaf və vərdişlər üzrə bestseller kitabı."
+    },
+    {
+        "id": "P017",
+        "category": "Avtomobil",
+        "name": "Portativ Təkər Nasosu",
+        "price": 55.0,
+        "image": "https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?w=800",
+        "description": "Avtomobil və velosiped təkərləri üçün rəqəmsal hava nasosu."
+    },
+    {
+        "id": "P018",
+        "category": "Oyuncaqlar",
+        "name": "Lego Konstruktor Dəsti",
+        "price": 110.0,
+        "image": "https://images.unsplash.com/photo-1587654780291-39c9404d746b?w=800",
+        "description": "Uşaqlar üçün yaradıcı düşüncəni inkişaf etdirən blok dəsti."
+    },
+    {
+        "id": "P019",
+        "category": "Heyvanlar Üçün",
+        "name": "Pişik Üçün Dırmaşma Ağacı",
+        "price": 90.0,
+        "image": "https://images.unsplash.com/photo-1545249390-6bdfa286032f?w=800",
+        "description": "Ev heyvanları üçün əyləncəli oyun və dincəlmə köşkü."
+    },
+    {
+        "id": "P020",
+        "category": "Bağçılıq",
+        "name": "Avtomatik Suvarma Sistemi",
+        "price": 45.0,
+        "image": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=800",
+        "description": "Ev bitkiləri üçün taymerli damcılama üsullu suvarma dəsti."
+    }
+]}
