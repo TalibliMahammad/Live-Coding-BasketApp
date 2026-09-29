@@ -2,12 +2,15 @@ import  { useContext } from "react";
 import { CartContext } from "../../context/CartContext";
 
 export default function Productsİtem({ product }) {
+  
+
+
 const { addToCart ,cart} = useContext(CartContext);
 
 const isAdded = cart.some((item)=>item.id === product.id)
 
   return (
-    <div className="w-64  overflow-hidden rounded-xl border border-gray-200 bg-white shadow-2xl">
+    <div className="w-64  overflow-hidden rounded-xl border  border-gray-200 bg-white shadow-2xl">
       <img
         src={product.image}
         alt={product.name}
